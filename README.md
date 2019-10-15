@@ -13,7 +13,7 @@ Durring a part-time cohort for the Full Stack Coding Bootcamp, the majority of o
 * React
 * Bootstrap
 * Redux
-* Jest (component testing)
+* Jest & Enzyme (component testing)
 
 #### `Back End`
 
@@ -31,7 +31,7 @@ Here is the link to the deployed app:
 ### `Stages and Updates`
 
 latest update: 10/14/19 
-Editing of README file, and organization of files, adding dependances, and including component testing.
+- Editing of README file, and organization of files, adding dependances, and including component testing.
 
 ### `Images`
 
