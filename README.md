@@ -10,16 +10,17 @@ Durring a part-time cohort for the Full Stack Coding Bootcamp, the majority of o
 
 #### `Front End`
 
-React
-Bootstrap
-Redux
+* React
+* Bootstrap
+* Redux
+* Jest (component testing)
 
 #### `Back End`
 
-npm (used for local deployment)
-node.js
-express
-mongodb ( future development: database)
+* npm (used for local deployment)
+* node.js
+* express
+* mongodb ( future development: database)
 
 ### `Visit the App`
 
@@ -30,7 +31,7 @@ Here is the link to the deployed app:
 ### `Stages and Updates`
 
 latest update: 10/14/19 
-Editing of README file, and organization of files as well as planning of mock up webpage design.
+Editing of README file, and organization of files, adding dependances, and including component testing.
 
 ### `Images`
 
