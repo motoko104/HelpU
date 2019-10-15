@@ -1,68 +1,41 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Help U
 
-## Available Scripts
+A React based web app that provides additional resource links for students that I am TAing for in the Full Stack Coding Bootcamp.
 
-In the project directory, you can run:
+### 'Reason for Development'
 
-### `yarn start`
+Durring a part-time cohort for the Full Stack Coding Bootcamp, the majority of our communication with students is done using Slack, which has a post limit for each channel. Durring my experience taking the coding bootcamp as a student I realized a bit too late that I wished I had kept all of the helpful links sent from other students and from the Instructors and TA's I had. Going through the bootcamp as a TA I felt the need to help my students with these same helpful links I used and had managed to save. As a solution I have been keeping all links shared on the slack channels and first helped provide them in one location on a google docs file, but a better format seemed to be inevitable, hence this web app.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### `Tech Used`
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+#### 'Front End'
 
-### `yarn test`
+React
+Bootstrap
+Redux
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### 'Back End'
 
-### `yarn build`
+npm (used for local deployment)
+node.js
+express
+mongodb ( future development: database)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### `Visit the App`
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Here is the link to the deployed app:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[Help U](https://helpu.herokuapp.com/) Click this link.
 
-### `yarn eject`
+### 'Stages and Updates'
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+latest update: 10/14/19 
+Editing of README file, and organization of files as well as planning of mock up webpage design.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 'Images'
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+This is where images of the site will be posted as development continues
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### `Contributers`
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Building this app was soley done by myself, Amanda Padilla, but the majority of the links provided were from my own Instructors, TA's, classmates, students, and fellow TA's as well.
