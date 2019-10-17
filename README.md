@@ -30,8 +30,8 @@ Here is the link to the deployed app:
 
 ### `Stages and Updates`
 
-latest update: 10/14/19 
-- Editing of README file, and organization of files, adding dependances, and including component testing.
+latest update: 10/17/19 
+- Wireframing site and implimenting TDD as components are being built.
 
 ### `Images`
 
