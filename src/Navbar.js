@@ -6,6 +6,7 @@ import FormControl from 'react-bootstrap/FormControl';
 import Button from 'react-bootstrap/Button';
 
 function NavBar () {
+
     return (     
         <Navbar bg="dark" variant="dark">
             <Navbar.Brand href="#home">HelpU</Navbar.Brand>
@@ -14,7 +15,8 @@ function NavBar () {
                 <Nav.Link href="#JumpTo">Jump To</Nav.Link>
             </Nav>
             <Form inline>
-                <FormControl type="text" placeholder="Search" className="mr-sm-2" />
+                <FormControl type="text" placeholder="Search" className="mr-sm-2"/>
+                {/* update search function  */}
                 <Button variant="outline-info">Search</Button>
             </Form>
         </Navbar>
